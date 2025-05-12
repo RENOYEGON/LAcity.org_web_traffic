@@ -19,9 +19,11 @@ Using a dataset of over 8 million web sessions, this analysis explores trends fo
 
 Findings indicate:
 
-Desktops are still the main device used as 71.49% drive the sessions.
-Mobile devices are second in usage but have the highest bounce rate, numbers are approximately 2.41% higher than desktops.
-● Tablets have the smallest number of traffic but have somewhat better bounce rate than desktop.
+- Desktops are still the main device used as 71.49% drive the sessions.
+
+- Mobile devices are second in usage but have the highest bounce rate, numbers are approximately 2.41% higher than desktops.
+
+- Tablets have the smallest number of traffic but have somewhat better bounce rate than desktop.
 
 Usually, the weekdays traffic is higher than weekends and a notable increase in the December 2017, probably due to the California wildfires, highlight the trust in the site during incidences of urgency. However, it is important to note that an obvious reduction in traffic from the year 2017 to the year 2019 is the subject for further analysis.
 
