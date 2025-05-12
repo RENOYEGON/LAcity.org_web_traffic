@@ -2,7 +2,7 @@
 
 This analysis examines web traffic information of [*lacity.gov*](https://lacity.gov/), the official website of the City of Los Angeles, from the years 2014 to 2019. The dataset is made up of over 8 million records and contains valuable data concerning user behavior and trends in engagement as well as devices’ used. The goal was to produce specific guidelines that increase user engagement, streamline site efficiency, and enhance communication—and in particular during events such as natural disasters such a thing is highly necessary.
 
-As the site is vital to enabling residents to receive current information and services, understanding user habits is vital for better access, interaction, and preparedness during crises.
+> As the site is vital to enabling residents to receive current information and services, understanding user habits is vital for better access, interaction, and preparedness during crises.
 
 **Key Definitions**
 
@@ -25,7 +25,7 @@ Findings indicate:
 
 - Tablets have the smallest number of traffic but have somewhat better bounce rate than desktop.
 
-Usually, the weekdays traffic is higher than weekends and a notable increase in the December 2017, probably due to the California wildfires, highlight the trust in the site during incidences of urgency. However, it is important to note that an obvious reduction in traffic from the year 2017 to the year 2019 is the subject for further analysis.
+> Usually, the weekdays traffic is higher than weekends and a notable increase in the December 2017, probably due to the California wildfires, highlight the trust in the site during incidences of urgency. However, it is important to note that an obvious reduction in traffic from the year 2017 to the year 2019 is the subject for further analysis.
 
 
 ## Detailed Insights
