@@ -1,4 +1,4 @@
-**Project Overview**
+ ## Project Overview
 
 This analysis examines web traffic information of [*lacity.gov*](https://lacity.gov/), the official website of the City of Los Angeles, from the years 2014 to 2019. The dataset is made up of over 8 million records and contains valuable data concerning user behavior and trends in engagement as well as devices’ used. The goal was to produce specific guidelines that increase user engagement, streamline site efficiency, and enhance communication—and in particular during events such as natural disasters such a thing is highly necessary.
 
@@ -10,13 +10,12 @@ As the site is vital to enabling residents to receive current information and se
 * **Bounce Rate**: The number of sessions in which users arrived at the site and then left in the clicking of a button without further session activity.
 * **Device Categories**: The various devices used by the users – particularly, desktop, mobile and tablet.
 
----
 
-**Executive Summary**
+## Executive Summary
 
 Using a dataset of over 8 million web sessions, this analysis explores trends for bounce rate, device utilized and total visits to the website between 2014 and 2019. SQL was used on the data and a Tableau dashboard was built to represent important metrics in graphics.
 
-![alt text](LAcity.orgdashboard.png)
+![alt text](LAcity.org_Dashboard.png)
 
 Findings indicate:
 
@@ -26,8 +25,8 @@ Mobile devices are second in usage but have the highest bounce rate, numbers are
 
 Usually, the weekdays traffic is higher than weekends and a notable increase in the December 2017, probably due to the California wildfires, highlight the trust in the site during incidences of urgency. However, it is important to note that an obvious reduction in traffic from the year 2017 to the year 2019 is the subject for further analysis.
 
----
-**Detailed Insights**
+
+## Detailed Insights
 
 **Device Usage**
 
@@ -47,9 +46,7 @@ Mobile browsers that are in-app like Safari in-app and the Android Browser have 
 The spike in December 2017 is tied to wildfire events, and highlights the site’s importance for crisis communication.
 Changes in user behavior or environmental factors that influence usage may be indicated by traffic loss between 2017 and 2019.
 
----
-
-**Recommendations**
+## Recommendations
 
 Findings and recommendations are intended to be shared with key stakeholders—including the IT, Marketing, and Web Development teams—to guide data-driven improvements across.
 
@@ -68,20 +65,16 @@ Findings and recommendations are intended to be shared with key stakeholders—i
 5. **Investigate Traffic Decline**
    Participate in surveys and research undertakings to get enlightenment on the drivers of the downward trend in traffic from 2017-2019. This method will allow us to identify usability problems or content inadequacies or changes in the needs for public information.
 
----
-
-**Assumptions and Limitations**
+## Assumptions and Limitations
 
 The higher amount of traffic seen on the web during the month of December 2017 is believed to be attributed to wildfires, although several other causes are also possible.
 Here only data up until 2019 has been included in the analysis. subsequent trends are not reflected.
 Bounce rate measurement is based on available session data that may not entirely track every user’s engagement.
 
----
-
-**Technical Details**
+## Technical Details
 
 The [Original dataset](https://data.lacity.org/City-Infrastructure-Service-Requests/LAcity-org-Website-Traffic/822f-gjp4/about_data) gives records for unique visitors, sessions, and bounce rates on the [*lacity.gov* ](https://lacity.gov/)site (from 2014 to 2019). 
 
-The data was cleaned and transformed using Python. You can find the transformation [script here](data_cleaning.ipynb). 
+The data was cleaned and transformed using Python. You can find the transformation [script here](data_cleaning_script.ipynb). 
 
 Visualizations created in Tableau may be checked out on the [*LAcity.org Web Traffic Dashboard*](https://public.tableau.com/views/LAcity_Web_Traffic/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
