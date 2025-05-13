@@ -4,6 +4,10 @@ This analysis examines web traffic information of [*lacity.gov*](https://lacity.
 
 > As the site is vital to enabling residents to receive current information and services, understanding user habits is vital for better access, interaction, and preparedness during crises.
 
+> I cleaned and augmented the dataset by standardizing column names to snake_case and converting the date column to datetime, removing timestamps. I reviewed `device_category` and cleaned the `browser` column by stripping whitespace, applying `.title()`, and grouping similar or inconsistent entries using a mapping for clarity and consistency.
+.Replaced placeholders with NaN, filled missing browsers as "Unknown," and removed duplicate rows to ensure clean, accurate data. [*Cleaning Script here*](data_cleaning_script.ipynb).
+
+
 **Key Definitions**
 
 * **Sessions**: A visit to the website where everything a user does during that session has been registered.
