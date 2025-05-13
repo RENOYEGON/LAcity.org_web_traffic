@@ -19,6 +19,8 @@ This analysis examines web traffic information of [*lacity.gov*](https://lacity.
 
 Using a dataset of over 8 million web sessions, this analysis explores trends for bounce rate, device utilized and total visits to the website between 2014 and 2019. SQL was used on the data and a Tableau dashboard was built to represent important metrics in graphics.
 
+Below is an overview page from Tableau Dashboard.The entire interactive dashboard can be found [*here*](https://public.tableau.com/views/LAcity_Web_Traffic/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 ![alt text](LAcity.org_Dashboard.png)
 
 Findings indicate:
