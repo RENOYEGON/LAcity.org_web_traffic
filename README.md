@@ -45,14 +45,14 @@ Findings indicate:
 **Browser Patterns**
 
 -  **Chrome** leads desktop sessions.
-Safari is the dominant browser used on mobile and tablets.
-Mobile browsers that are in-app like Safari in-app and the Android Browser have a major effect on bounce rates.
+-  **Safari**  is the dominant browser used on mobile and tablets.
+- **Mobile browsers** that are in-app like Safari in-app and the Android Browser have a major effect on bounce rates.
 
 **Traffic Trends**
 
 - Engagement during working days indicates that it is most effective to release updates and start new campaigns on those days.
-The spike in December 2017 is tied to wildfire events, and highlights the site’s importance for crisis communication.
-Changes in user behavior or environmental factors that influence usage may be indicated by traffic loss between 2017 and 2019.
+- The spike in **December 2017** is tied to wildfire events, and highlights the site’s importance for crisis communication.
+- Changes in user behavior or environmental factors that influence usage may be indicated by traffic loss between **2017** and **2019**.
 
 ## Recommendations
 
