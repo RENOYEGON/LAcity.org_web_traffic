@@ -38,21 +38,23 @@ Findings indicate:
 
 **Device Usage**
 
-* **Desktop**: Is the major source of traffic so browser performance and compatibility are the most important.
-* **Mobile**: In busy periods, mobile devices rise with the highest bounce rate, indicating accessibility problems or usability issues.
-* **Tablet**: In spite of having its lowest traffic percentage, tablet users have a tendency of engaging more consistently than mobile visitors.
+* **Desktop**: brings in the most sessions (72% of the total)..
+* **Mobile**:  ranks second but has the highest bounce rate (~3% higher than desktop).
+* **Tablet**: bring in the least amount of traffic, though they have a lower bounce rate compared to mobile.
 
 **Browser Patterns**
 
--  **Chrome** leads desktop sessions.
--  **Safari**  is the dominant browser used on mobile and tablets.
-- **Mobile browsers** that are in-app like Safari in-app and the Android Browser have a major effect on bounce rates.
+-  **Chrome** On desktop, Chrome is the most-used browser.
+
+- On mobile and tablet, Safari dominates the sessions.
+- The default mobile browsers (Safari in-app and Android Browser) tend to have higher bounce rates, contributing to mobile’s higher overall bounce rate.
 
 **Traffic Trends**
 
-- Engagement during working days indicates that it is most effective to release updates and start new campaigns on those days.
-- The spike in **December 2017** is tied to wildfire events, and highlights the site’s importance for crisis communication.
-- Changes in user behavior or environmental factors that influence usage may be indicated by traffic loss between **2017** and **2019**.
+- Weekdays see significantly higher traffic compared to weekends.
+- There is a notable traffic spike in December 2017, which correlates with multiple wildfires that occurred in California during that time. The spike suggests the website was used as a key information hub during that crisis.
+- A steady decline in traffic from 2017 to 2019 was observed, indicating a need to investigate factors behind this trend.
+
 
 ## Recommendations
 
